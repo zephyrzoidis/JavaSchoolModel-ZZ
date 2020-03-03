@@ -43,7 +43,6 @@ public class Runner {
         me.addSection(computerScience);
         linda.addSection(computerScience);
 
-
         System.out.println(berkeleyHigh.toString());
         System.out.println(math.toString());
         System.out.println(bio.toString());
